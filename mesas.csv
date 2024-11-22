@@ -1,4 +1,11 @@
 id,nome_restaurante,numero,ocupada,especificacao
-0,Pizzas da Kakau,521,True,"Mesa com 5 cadeiras, redonda"
-1,Burguers do Jokas,18,True,"Mesa pra 2, perto do janelao"
-2,Doces do Jokas e Kakau,2019,True,Casal mais lindo do Brasil
+0,Pizzas da Kakau,101,True,Mesa para 4 pessoas perto da janela
+1,Burguers do Jokas,18,False,Mesa para casal com iluminação baixa
+2,Doces do Jokas e Kakau,2019,True,Mesa reservada para eventos
+3,Sushi do Yamato,7,False,Mesa no tatame para 6 pessoas
+4,Churrasco do Gaúcho,23,True,Mesa próxima à churrasqueira
+5,Massas da Nonna,42,False,Mesa central com vista para o salão
+6,Poke do Havaí,12,True,Mesa alta para refeições rápidas
+7,Café dos Sonhos,9,False,Mesa ao ar livre, ideal para brunch
+8,Peixes do Mar,15,True,Mesa com vista para o aquário
+9,Tacos do Juan,25,False,Mesa temática mexicana com chapéus
